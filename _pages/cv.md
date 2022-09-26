@@ -11,31 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
+* M.Sc. in Medicine, Technion-Israel Institute of Technology, 2022
+* Incoming Ph.D (Update soon)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022: Graduate Researcher 
+  * Technion, Israel Institute of Technology
+  * Duties included: Investigating plasticity mechanisms in dendrites of PCx PNs.
+  * Supervisor: Professor Jackie Schiller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* April 2019: Research Apprentice
+  * Jawaharlal University
+  * Duties included: Studying the role of REM Sleep deprivation in rodents using computational tools.
+  * Supervisor: Professor B.N Mallick
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Electrophysiology
+* Viral Injections
+* Deep Learning
 
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -47,7 +47,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -57,3 +57,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->  
