@@ -10,11 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+
+
 Education
 ======
 * B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
 * M.Sc. in Medicine, Technion-Israel Institute of Technology, 2022
 * Incoming Ph.D (Update soon)
+
+
+
 
 Work experience
 ======
@@ -29,6 +34,9 @@ Work experience
   * Duties included: Studying the role of REM Sleep deprivation in rodents using computational tools.
   * Supervisor: Professor B.N Mallick
   
+
+
+
 Skills
 ======
 * Electrophysiology
