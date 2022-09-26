@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<p>&nbsp;</p>
 
 
 Education
@@ -18,7 +18,7 @@ Education
 * M.Sc. in Medicine, Technion-Israel Institute of Technology, 2022
 * Incoming Ph.D (Update soon)
 
-
+<p>&nbsp;</p>
 
 
 Work experience
@@ -34,6 +34,7 @@ Work experience
   * Duties included: Studying the role of REM Sleep deprivation in rodents using computational tools.
   * Supervisor: Professor B.N Mallick
   
+<p>&nbsp;</p>
 
 
 
@@ -42,6 +43,10 @@ Skills
 * Electrophysiology
 * Viral Injections
 * Deep Learning
+
+<p>&nbsp;</p>
+
+
 
 A complete CV can be downloaded [here](/files/CV_MS.pdf).
 
