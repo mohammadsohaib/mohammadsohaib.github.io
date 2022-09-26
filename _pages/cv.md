@@ -43,7 +43,7 @@ Skills
 * Viral Injections
 * Deep Learning
 
-A complete CV can be downloaded [here](/files/MS_CV.pdf).
+A complete CV can be downloaded [here](/files/CV_MS.pdf).
 
 
 <!--
