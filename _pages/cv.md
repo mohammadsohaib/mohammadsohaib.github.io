@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
@@ -35,6 +36,8 @@ Skills
 * Deep Learning
 
 A complete CV can be downloaded [here](/files/MS_CV.pdf).
+
+
 <!--
 Publications
 ======
