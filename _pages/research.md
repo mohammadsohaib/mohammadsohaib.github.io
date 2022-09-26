@@ -49,7 +49,7 @@ Skills
 A complete CV can be downloaded [here](/files/CV_MS.pdf).
 
 
-<!--
+
 Publications
 ======
   <ul>{% for post in site.publications %}
