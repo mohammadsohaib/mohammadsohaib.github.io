@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Mohammad Sohaib"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mohammad Sohaib"
+description              : &description "personal description is what i have put"
 url                      : https://mohammadsohaib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohammadsohaib/mohammadsohaib.github.io"
@@ -209,19 +209,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _talks
   - scope:
       path: ""
-      type: publications
+      type: talks
     values:
       layout: single
       author_profile: true
