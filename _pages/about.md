@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome amigo!
+Welcome!
 
 I am an aspiring neuroscientist looking to understand how the brain 
 computes. I earned my master's degree in medicine from Technion, Haifa. My

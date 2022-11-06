@@ -20,11 +20,10 @@ demand, 'who are we?' - Erwin Schrodinger
 &quot;<em>
 
 What Schrodinger said in the above quote is at the heart of my research philosophy.
-As an esteemed member of proabably the most complex and selfish specie in the known universe,
-I am naturally inclined to the understanding of my ownself, curious
-about my own consciousness. And therefore: The ultimate aim of my 
-research is to understand myself better — Who am I. Why I do what I do.
-This curosity led peruse me to neural sciences, philosophy, psychology.
+As an esteemed member of probably the most complex and selfish specie in the known universe,
+I have natural inclination to the understanding of my oneself, curious
+about my own consciousness.
+This curiosity made me passionate about neural sciences, philosophy, psychology.
 
 Academically speaking, my research interests revolve around 
 intelligence and how information is represented in the brain.
@@ -32,7 +31,7 @@ I have chosen system neurosciences (or rather it has chosen me)
 for the perusal of this ambitious endeavour.
 
 Following topics instantly grab my attention:
-- Plasticity in Neural Circuits.
+- Plasticity in Neural Circuits
 - Dendritic Computations
 - Artificial Neural Networks
 - Psychiatric Disorders
