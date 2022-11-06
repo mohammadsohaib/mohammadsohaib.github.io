@@ -21,7 +21,7 @@ demand, 'who are we?' - Erwin Schrodinger
 
 What Schrodinger said in the above quote is at the heart of my research philosophy.
 As an esteemed member of probably the most complex and selfish specie in the known universe,
-I have natural inclination to the understanding of my oneself, curious
+I am naturally inclined to understand the nature of my ownself, curious
 about my own consciousness.
 This curiosity made me passionate about neural sciences, philosophy, psychology.
 
