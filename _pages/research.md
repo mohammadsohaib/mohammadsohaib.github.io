@@ -11,9 +11,29 @@ redirect_from:
 
 <p>&nbsp;</p>
 
+<em>&quot; The isolated knowledge obtained by a group
+of specialists in a narrow field has in itself no 
+value whatsoever, but only in its synthesis with 
+all the rest of knowledge and only in as much as 
+it really contributes towards answering the 
+demand, 'who are we?' - Erwin Schrodinger
+&quot;<em>
 
-Plasticity in neural circuits
-======
+I have always been curious about myself and my own consciousness.
+This naturally inclined me to neural sciences, philosophy, psychology.
+What Schrodinger said in the above quote is at the heart of my research philosophy.
+
+The ultimate aim of my research is to understand myself 
+better — Who am I. Why I do what I do.
+Academically speaking, my research interests revolve around 
+intelligence and how information is represented in the brain.
+I have chosen system neurosciences (or rather it has chosen me) 
+for the perusal of this ambitious endeavour.
+
+Following topics instantly grab my attention:
+- Plasticity in Neural Circuits.
+- Dendritic Computations
+- Artifical Neural Networks
 * coming soon
 
 <p>&nbsp;</p>
