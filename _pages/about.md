@@ -11,9 +11,8 @@ redirect_from:
 Welcome amigo!
 
 I am an aspiring neuroscientist looking to understand how the brain 
-computes. I earned my master's degree in medicine from Technion, Haifa.
-
-My thesis work was about plasticity mechanisms in pyramidal neurons. This work was strongly rooted in
+computes. I earned my master's degree in medicine from Technion, Haifa. My
+thesis work was about plasticity mechanisms in pyramidal neurons. This work was strongly rooted in
 neurophysiology— an essential chunk of knowledge needed to understand
 the computation of the neurons.
 
