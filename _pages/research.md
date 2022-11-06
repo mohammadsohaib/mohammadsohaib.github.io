@@ -19,12 +19,13 @@ it really contributes towards answering the
 demand, 'who are we?' - Erwin Schrodinger
 &quot;<em>
 
-I have always been curious about myself and my own consciousness.
-This naturally inclined me to neural sciences, philosophy, psychology.
 What Schrodinger said in the above quote is at the heart of my research philosophy.
+As an esteemed member of proabably the most complex and selfish specie in the known universe,
+I am naturally inclined to the understanding of my ownself, curious
+about my own consciousness. And therefore: The ultimate aim of my 
+research is to understand myself better — Who am I. Why I do what I do.
+This curosity led peruse me to neural sciences, philosophy, psychology.
 
-The ultimate aim of my research is to understand myself 
-better — Who am I. Why I do what I do.
 Academically speaking, my research interests revolve around 
 intelligence and how information is represented in the brain.
 I have chosen system neurosciences (or rather it has chosen me) 
@@ -33,8 +34,8 @@ for the perusal of this ambitious endeavour.
 Following topics instantly grab my attention:
 - Plasticity in Neural Circuits.
 - Dendritic Computations
-- Artifical Neural Networks
-* coming soon
+- Artificial Neural Networks
+- Psychiatric Disorders
 
 <p>&nbsp;</p>
 
