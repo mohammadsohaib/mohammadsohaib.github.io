@@ -22,7 +22,7 @@ demand, 'who are we?' - Erwin Schrodinger
 What Schrodinger said in the above quote is at the heart of my research philosophy.
 As an esteemed member of probably the most complex and selfish specie in the known universe,
 I am naturally inclined to understand the nature of my ownself; curious
-about my own consciousness.!!!
+about my own consciousness.
 This curiosity made me passionate about neural sciences, philosophy, psychology.
 
 Academically speaking, my research interests revolve around 
@@ -33,8 +33,8 @@ for the perusal of this ambitious endeavour.
 Following topics instantly grab my attention:
 - Plasticity in Neural Circuits
 - Dendritic Computations
-- Artificial Neural Networks
 - Psychiatric Disorders
+- Artificial Neural Networks
 
 <p>&nbsp;</p>
 
