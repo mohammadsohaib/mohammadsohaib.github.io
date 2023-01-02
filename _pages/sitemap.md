@@ -7,7 +7,6 @@ author_profile: true
 
 Take the long route ;)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6cCnZuQi2VqRnr2YQinvgJOfLY2c5Am1qIdwP0AiqRk&cl=ffffff&w=60"></script>
 
 
 <!--
