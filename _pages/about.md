@@ -22,5 +22,5 @@ from Jamia Millia Islamia, New Delhi.
 Presently, I am looking for doctoral research roles in System Neurosciences.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6cCnZuQi2VqRnr2YQinvgJOfLY2c5Am1qIdwP0AiqRk&cl=ffffff&w=60"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6cCnZuQi2VqRnr2YQinvgJOfLY2c5Am1qIdwP0AiqRk&cl=000000&w=60"></script>
 
