@@ -11,7 +11,7 @@ redirect_from:
 Welcome!
 
 I am an aspiring neuroscientist looking to understand how the brain 
-computes. I am excited to start my doctoral research with <a href="https://www.psi.ch/en/lnb/people/adrian-andreas-wanner">Adrian Wanner</a>  at PSI, Switzerland
+computes. I am excited to start my doctoral research with <a href="https://www.psi.ch/en/lnb/people/adrian-andreas-wanner">Adrian Wanner</a>  at PSI, Zurich
 from May 2023. I'll be working on X-ray mediated optogenetics for non-invasive stimulation,
 and dynamical connectomics to understand structure-function 
 relationship of neurons. I'll combine electron microscopy to study 
