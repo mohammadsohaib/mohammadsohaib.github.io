@@ -12,9 +12,9 @@ author_profile: true
 
 Education
 ======
-* B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
+* Incoming Ph.D at PSI, Switzerland, 2023
 * M.Sc. in Medicine, Technion-Israel Institute of Technology, 2022
-* Incoming Ph.D (Update soon)
+* B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
 
 <p>&nbsp;</p>
 
