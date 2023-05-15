@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mohammad Sohaib"
   avatar           : "profile.jpg"
-  bio              : "Aspiring neuroscientist"
-  location         : #"Location"
+  bio              : "Researcher"
+  location         : "Zurich"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
