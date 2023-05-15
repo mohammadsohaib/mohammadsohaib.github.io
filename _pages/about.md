@@ -11,11 +11,11 @@ redirect_from:
 Welcome!
 
 I am an aspiring neuroscientist looking to understand how the brain 
-computes. I am excited to start my doctoral research with <a href="https://www.psi.ch/en/lnb/people/adrian-andreas-wanner">Adrian Wanner</a>  at PSI, Zurich
-from May 2023. I'll be working on X-ray mediated optogenetics for non-invasive stimulation,
+computes. I am a doctoral research candidate with <a href="https://www.psi.ch/en/lnb/people/adrian-andreas-wanner">Adrian Wanner</a>  
+at PSI Villigen, & <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html">Mehmet Fatih Yanik</a> at ETH Zurich . 
+I am working on X-ray mediated optogenetics for minimally invasive optogenetic stimulation,
 and dynamical connectomics to understand structure-function 
-relationship of neurons. I'll combine electron microscopy to study 
-structure with calcium imaging of the same ensemble of neurons.
+relationship of neurons in health and disease.
 
 Prior to this, I earned my master's degree in medicine from Technion, Haifa. My
 thesis work was about plasticity mechanisms in pyramidal neurons. We extensively
