@@ -11,30 +11,19 @@ redirect_from:
 
 <p>&nbsp;</p>
 
-<em>&quot; The isolated knowledge obtained by a group
-of specialists in a narrow field has in itself no 
-value whatsoever, but only in its synthesis with 
-all the rest of knowledge and only in as much as 
-it really contributes towards answering the 
-demand, 'who are we?' - Erwin Schrodinger
-&quot;<em>
+Erwin Schrodinger once said, 'The isolated knowledge obtained by a group of specialists in a narrow field has no value in itself; it acquires value only when synthesized with all other knowledge, and only inasmuch as it contributes to answering the question, 'who are we?' This belief forms the core of my research philosophy.
 
-What Schrodinger said in the above quote is at the heart of my research philosophy.
-As an esteemed member of probably the most complex and selfish specie in the known universe,
-I am naturally inclined to understand the nature of my ownself; curious
-about my own consciousness.
-This curiosity made me passionate about neural sciences, philosophy, psychology.
+As a member of a species renowned for its complexity and introspective nature, I find myself compelled to understand the essence of my own being and the mysteries of consciousness. This innate curiosity has led me to a profound interest in the fields of neural sciences, philosophy, and psychology.
 
-Academically speaking, my research interests revolve around 
-intelligence and how information is represented in the brain.
-I have chosen system neurosciences (or rather it has chosen me) 
-for the perusal of this ambitious endeavour.
+From an academic perspective, my research is centered around the exploration of intelligence and the mechanisms of information representation within the brain. I have found my calling in systems neuroscience—a field that has chosen me as much as I have chosen it—in a bid to pursue this ambitious quest.
 
-Following topics instantly grab my attention:
-- Plasticity in Neural Circuits
-- Dendritic Computations
-- Psychiatric Disorders
-- Artificial Neural Networks
+In the course of my doctoral studies, I am delving into the intricacies of Alzheimer's disease, with a specific focus on the retrosplenial cortex. My research explores both the functional and structural aspects of this area of the brain. Utilizing 2-photon microscopy for optical readout and electron microscopy for structural imaging, I am aiming to unravel why working memory is specifically impaired during the prodromal stages of Alzheimer's disease. This focus forms a significant portion of my thesis."
+
+The following areas of study also particularly pique my interest:
+  * Neural Circuit Plasticity 
+  * Computations in Dendrites 
+  * Psychiatric Disorders and Their Neurological Underpinnings
+  * The Applications and Implications of Artificial Neural Networks
 
 <p>&nbsp;</p>
 
