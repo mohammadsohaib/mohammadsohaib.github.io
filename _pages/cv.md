@@ -46,7 +46,7 @@ Skills
 
 
 
-A complete CV can be downloaded [here](/files/Mohammad Sohaib CV June 2023.pdf).
+A complete CV can be downloaded [here](/files/Mohammad_Sohaib_CV_June_2023.pdf).
 
 
 <!--
