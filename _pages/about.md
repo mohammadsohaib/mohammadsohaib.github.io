@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About Me
+layout: archive
+title: "About Me"
 permalink: /about/
+author_profile: true
 ---
 
 # About Me
