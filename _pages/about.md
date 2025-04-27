@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
 # About Me
 
 I am a doctoral research candidate investigating early-stage AD under the guidance of [Adrian Wanner](https://www.psi.ch/en/lnb/people/adrian-andreas-wanner) at PSI Villigen co-supervised by [Mehmet Fatih Yanik](https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html) at ETH Zurich. My research focuses on:
