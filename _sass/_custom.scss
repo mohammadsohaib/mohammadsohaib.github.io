@@ -104,6 +104,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .author__urls {
+  // Desktop only: the sidebar column has a fixed width there. (On mobile the
+  // links sit in a pop-up that sizes to its content, so nowrap is right.)
+  @include breakpoint($large) {
+    li {
+      white-space: normal;   // theme sets nowrap, so long lines spilled into the content column
+      padding-left: 1.55em;  // hanging indent: wrapped text lines up after the icon
+      text-indent: -1.55em;
+    }
+  }
+
   a {
     color: $text-color;
 
