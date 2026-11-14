@@ -74,7 +74,7 @@ social:
 # Analytics
 analytics:
   provider               : "custom" # false (default), "google", "google-universal", "custom"
-  goatcounter            : # GoatCounter site code, e.g. "mohammadsohaib" for mohammadsohaib.goatcounter.com (blank = off)
+  goatcounter            : "mohammadsohaib" # GoatCounter site code, e.g. "mohammadsohaib" for mohammadsohaib.goatcounter.com (blank = off)
   google:
     tracking_id          :
 
