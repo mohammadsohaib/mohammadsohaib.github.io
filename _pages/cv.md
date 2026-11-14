@@ -5,74 +5,70 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
+<p><a class="btn btn--primary" href="/files/Mohammad_Sohaib_CV_June_2023.pdf">Download PDF CV</a></p>
 
-<p>&nbsp;</p>
+## Research experience
 
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>Doctoral researcher</strong> · Structural Neurobiology group, Paul Scherrer Institut (PSI), Villigen<span class="cv-item__date">May 2023 – present</span></p>
+<p class="cv-item__sub">PI: Dr. Adrian Wanner · Co-supervisor: Prof. Mehmet Fatih Yanik (ETH Zurich)</p>
 
-Education
-======
-* Ph.D student at ETH Zurich, May 2023- Present
-* M.Sc. in Medicine, Technion-Israel Institute of Technology, 2022
-* B.Tech. in Electrical Engineering, Jamia Millia Islamia, 2018
+- Established the lab's two-photon microscopy and analysis pipeline from scratch.
+- Designed and built a virtual-reality setup and behavioural paradigms for mice.
+- Thesis: working-memory deficits in prodromal Alzheimer's disease, linking neural function and structure through combined calcium imaging and electron microscopy.
+</div>
 
-<p>&nbsp;</p>
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>Research student</strong> · Cortical Computation lab, Technion, Haifa<span class="cv-item__date">Mar 2020 – Sep 2022</span></p>
+<p class="cv-item__sub">PI: Prof. Jackie Schiller</p>
 
+- Led a project on memory mechanisms in dendrites of piriform cortex neurons in rodents.
+- Performed experiments, electrophysiology and analysis.
+</div>
 
-Work experience
-======
-* September 2022: Graduate Researcher 
-  * Technion, Israel Institute of Technology
-  * Duties included: Investigating plasticity mechanisms in dendrites of PCx PNs.
-  * Supervisor: Professor Jackie Schiller
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>Research intern</strong> · Rapid Eye Movement Sleep Laboratory, Jawaharlal Nehru University, New Delhi<span class="cv-item__date">Jul 2018 – Apr 2019</span></p>
+<p class="cv-item__sub">PI: Prof. B. N. Mallick</p>
 
+- Studied morphological changes in neurons using computational tools.
+- Recognised for a poster on exploratory analysis of neuromorphometric data.
+</div>
 
-* April 2019: Research Apprentice
-  * Jawaharlal University
-  * Duties included: Studying the role of REM Sleep deprivation in rodents using computational tools.
-  * Supervisor: Professor B.N Mallick
-  
-<p>&nbsp;</p>
+## Education
 
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>PhD in Neuroscience</strong> · ETH Zurich<span class="cv-item__date">May 2023 – present</span></p>
+</div>
 
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>MSc in Neuroscience</strong> · Technion – Israel Institute of Technology, Haifa<span class="cv-item__date">Mar 2020 – Sep 2022</span></p>
 
-Skills
-======
-* Electrophysiology
-* Viral Injections
-* Deep Learning
+- Represented a startup in Technion's entrepreneurship programme.
+</div>
 
-<p>&nbsp;</p>
+<div class="cv-item" markdown="1">
+<p class="cv-item__head"><strong>BTech in Electrical Engineering</strong> · Jamia Millia Islamia, New Delhi<span class="cv-item__date">Jul 2014 – Aug 2018</span></p>
+</div>
 
+## Skills
 
+- **Imaging:** in-vivo two-photon calcium imaging, confocal microscopy, electron-microscopy connectomics
+- **Behaviour:** virtual-reality setups and behavioural paradigms for mice
+- **Electrophysiology:** in-vitro whole-cell patch clamp, optogenetic stimulation
+- **Surgery:** viral injections in mice
+- **Computation:** deep neural networks and machine-learning models, electrophysiology data analysis, NEURON modelling
 
-A complete CV can be downloaded [here](/files/Mohammad_Sohaib_CV_June_2023.pdf).
+## Fellowships and awards
 
+- 2020–2022 · Graduate Scholarship, Technion
+- 2019 · Junior Research Fellow, AIIMS
+- 2016 · Merit Scholarship (MOMA), Jamia Millia Islamia
 
-<!--
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Leadership
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 2017 · Co-organiser, TEDxJMI — led a university-wide team of 70+ people
+- 2015 · Co-founder, SCONJ student community — grew to 400+ students within a year
 
-redirect_from:
-  - /resume
--->  
+## Languages
 
+English (professional) · Urdu (native) · Hindi (conversational) · Arabic (basic)
