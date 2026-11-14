@@ -1,0 +1,203 @@
+/* ==========================================================================
+   SITE DESIGN OVERRIDES
+   Imported last from assets/css/main.scss, so these win over the theme.
+   Colours come from _variables.scss ($primary-color = accent).
+   ========================================================================== */
+
+$ink        : #18202c;               // headings
+$muted      : #5f6b7a;               // dates, secondary text
+$accent-bg  : mix(#fff, $primary-color, 92%);
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $ink;
+  letter-spacing: -0.01em;
+}
+
+.page__title {
+  font-size: $type-size-2;
+  letter-spacing: -0.02em;
+}
+
+/* Section headings: drop the theme's full-width rule, use a short accent bar */
+.page__content h2,
+.archive h2:not(.archive__subtitle):not(.archive__item-title) {
+  position: relative;
+  margin-top: 2.2em;
+  padding-bottom: 0.45em;
+  border-bottom: none;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 2.25rem;
+    height: 3px;
+    border-radius: 2px;
+    background: $primary-color;
+  }
+}
+
+/* Body links: accent colour, subtle underline that strengthens on hover */
+.page__content a,
+.archive a {
+  text-decoration: underline;
+  text-decoration-color: mix(#fff, $primary-color, 60%);
+  text-underline-offset: 0.18em;
+
+  &:hover {
+    text-decoration-color: currentColor;
+  }
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  background: rgba(#fff, 0.96);
+  border-bottom-color: $border-color;
+}
+
+.greedy-nav {
+  .visible-links li:first-child a {
+    color: $ink;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .visible-links a::before {
+    height: 2px;
+    background: $primary-color;
+  }
+
+  button {
+    border-radius: $border-radius;
+  }
+}
+
+/* ---------- Sidebar / author card ---------- */
+
+.author__avatar img {
+  max-width: 160px;
+  border-radius: 50%;
+
+  @include breakpoint($large) {
+    padding: 4px;
+    border: 2px solid mix(#fff, $primary-color, 75%);
+  }
+}
+
+.sidebar .author__name {
+  color: $ink;
+  font-size: $type-size-4;
+  font-weight: 700;
+}
+
+.author__bio {
+  color: $muted;
+  font-size: $type-size-6;
+  line-height: 1.5;
+}
+
+.author__urls {
+  a {
+    color: $text-color;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+/* ---------- Home: lead summary ---------- */
+
+.page__content p.lead {
+  margin-bottom: 1.6em;
+  padding: 1em 1.25em;
+  color: $ink;
+  font-size: 1.15em;
+  line-height: 1.6;
+  background: $accent-bg;
+  border-left: 4px solid $primary-color;
+  border-radius: 0 $border-radius $border-radius 0;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn--primary {
+  padding: 0.6em 1.2em;
+  font-size: $type-size-6;
+  text-decoration: none !important;
+  background-color: $primary-color;
+
+  &:hover {
+    background-color: mix(#000, $primary-color, 20%);
+  }
+}
+
+/* ---------- CV entries ---------- */
+
+.cv-item {
+  margin: 0 0 1.4em;
+
+  ul {
+    margin-top: 0.4em;
+  }
+
+  li {
+    margin-bottom: 0.2em;
+  }
+}
+
+.cv-item__head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  column-gap: 1em;
+  margin: 0;
+}
+
+.cv-item__date {
+  margin-left: auto;
+  color: $muted;
+  font-size: 0.9em;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.cv-item__sub {
+  margin: 0.1em 0 0;
+  color: $muted;
+  font-size: 0.9em;
+}
+
+/* ---------- Blog archive ---------- */
+
+.archive__subtitle {
+  color: $muted;
+  font-size: $type-size-6;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.archive__item-title a {
+  text-decoration: none;
+  color: $ink;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+/* ---------- Footer ---------- */
+
+.page__footer {
+  color: $muted;
+  background-color: #f6f7f9;
+  border-top: 1px solid $border-color;
+}

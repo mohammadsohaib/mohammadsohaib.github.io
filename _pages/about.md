@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p class="lead">I'm a neuroscientist with an electrical-engineering background, working to catch Alzheimer's disease in the brain before symptoms appear. As a PhD candidate at ETH Zurich and the Paul Scherrer Institut, I combine in-vivo two-photon imaging, virtual-reality behaviour and electron-microscopy connectomics to find the earliest circuit-level signatures of the disease.</p>
 
 I'm currently a PhD candidate at ETH Zurich studying early-stage Alzheimer's diagnosis. My days involve working with two-photon microscopy to track how neural circuits change in behaving mice - basically trying to catch the disease's earliest signatures before symptoms appear.
 
